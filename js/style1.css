@@ -42,7 +42,7 @@ select {
 }
 
 body {
-	font: 12px/1.5 "Microsoft Yahei", Arial, ËÎÌå, Helvetica, sans-serif;
+	font: 12px/1.5 "Microsoft Yahei", Arial, Ã‹ÃŽÃŒÃ¥, Helvetica, sans-serif;
 	background-color: #fff0f0
 }
 
@@ -133,7 +133,12 @@ a.red {
 	height: 60px;
 	padding: 12px 1px
 }
-
+#so360 {
+	float: left;
+	width: 148px;
+	height: 60px;
+	padding: 20px 1px
+}
 #topimg {
 	float: left;
 	padding: 35px 88px;
